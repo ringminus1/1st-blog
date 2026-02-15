@@ -1,7 +1,3 @@
----
-title: The blog
----
-
 # The Beginning
 
 This is my first blog in a very long time. I feel like a lifetime has passed since I last wrote about anything. I decided that this would be a great time to start a new, since the topic is one I've never explored and something I SHOULD be paying more attention on, as a worker in the field of cybersecurity.
